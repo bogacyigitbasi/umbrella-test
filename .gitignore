@@ -1,4 +1,4 @@
-*/**/target
+target/
 *.export
 .idea
 deploy-scripts/
