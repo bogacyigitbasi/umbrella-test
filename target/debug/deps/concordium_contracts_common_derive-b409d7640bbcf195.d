@@ -1,0 +1,7 @@
+/Users/bogachanyigitbasi/Desktop/Work/Umbrella/test/umbrella/target/debug/deps/libconcordium_contracts_common_derive-b409d7640bbcf195.dylib: /Users/bogachanyigitbasi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concordium-contracts-common-derive-4.0.1/src/lib.rs /Users/bogachanyigitbasi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concordium-contracts-common-derive-4.0.1/src/attribute.rs /Users/bogachanyigitbasi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concordium-contracts-common-derive-4.0.1/src/derive.rs
+
+/Users/bogachanyigitbasi/Desktop/Work/Umbrella/test/umbrella/target/debug/deps/concordium_contracts_common_derive-b409d7640bbcf195.d: /Users/bogachanyigitbasi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concordium-contracts-common-derive-4.0.1/src/lib.rs /Users/bogachanyigitbasi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concordium-contracts-common-derive-4.0.1/src/attribute.rs /Users/bogachanyigitbasi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concordium-contracts-common-derive-4.0.1/src/derive.rs
+
+/Users/bogachanyigitbasi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concordium-contracts-common-derive-4.0.1/src/lib.rs:
+/Users/bogachanyigitbasi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concordium-contracts-common-derive-4.0.1/src/attribute.rs:
+/Users/bogachanyigitbasi/.cargo/registry/src/index.crates.io-6f17d22bba15001f/concordium-contracts-common-derive-4.0.1/src/derive.rs:

@@ -1,0 +1,27 @@
+[package]
+name = "test"
+version = "0.1.0"
+authors = [ "bogachanyigitbasi" ]
+edition = "2021"
+license = "MPL-2.0"
+description = "s"
+
+[features]
+default = ["std"]
+std = ["concordium-std/std", "concordium-cis2/std"]
+bump_alloc = ["concordium-std/bump_alloc"]
+
+[dependencies]
+concordium-std = {version = "10.0", default-features = false}
+concordium-cis2 = {version = "6.1", default-features = false}
+umbrella-feeds = { git = "https://github.com/umbrella-network/phoenix-concordium.git", version = "1.0.0" }
+
+[dev-dependencies]
+concordium-smart-contract-testing = "4.0"
+
+[lib]
+crate-type=["cdylib", "rlib"]
+
+[profile.release]
+codegen-units = 1
+opt-level = "s"
